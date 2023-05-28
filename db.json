@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "name": "janani",
+      "number": "1234567899",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "vivaan",
+      "number": "1234567899",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "vivu",
+      "number": "1234567899",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "kala",
+      "number": "11111111111",
+      "password": "111",
+      "id": 4
+    },
+    {
+      "name": "abha",
+      "number": "11111111111",
+      "password": "111",
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "name": "qqq",
+      "number": "11",
+      "password": "11",
+      "id": 7
+    }
+  ],
+  "task": [
+    {
+      "name": "honda",
+      "model": "honda city",
+      "year": "2015",
+      "mileage": "23",
+      "price": "200000",
+      "id": 1
+    }
+  ]
+}
