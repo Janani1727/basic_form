@@ -2,9 +2,10 @@ import React from 'react'
 
 import { Routes,Route } from 'react-router-dom'
 
-import Signup from "../pages/Signup"
-import Login from "../pages/Login"
-import AddTask from "../pages/AddTask"
+import Signup from "../components/Signup"
+import Login from "../components/Login"
+// import ToDo from '../components/ToDo'
+import AddTask from '../components/AddTask'
 
 
 
